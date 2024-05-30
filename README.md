@@ -1,4 +1,4 @@
-# Jetson NANO Robotic arm
+# ROS-WiFi camera module support ROS2 robot
 ![](https://github.com/YahboomTechnology/ROS-WiFi-CAM-Module/blob/main/ROS-WiFi_camera%20_module_Yahboom.jpg )
 # Introduction
 This ROS-WiFi camera module integrates the ESP32-S3 chip, a 2MP camera, a black 3D printed case, can be used for wireless image transmission of ROS2 robots. Users can configure WiFi network through the serial port module to achieve smoother wireless image transmission in the same LAN. Using the microROS protocol, the module can provide real-time image data to the host computer equipped with ROS2 system, thereby realizing a series of AI visual recognition functions. Yahboom provides OpenCV image processing example codes and MediaPipe algorithm application cases.
